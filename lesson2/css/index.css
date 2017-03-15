@@ -1,0 +1,120 @@
+.box{
+	background: grey;
+	margin:0 auto;
+	padding:20px;
+	box-sizing:border-box;
+}
+.box nav{
+	height: 40px;
+}
+.box nav ul{
+	float:right;
+}
+.box nav li{
+	float:left;
+	margin-right:20px;
+}
+.box nav li a{
+	color:#fff;
+	font:12px microsoft yahei;
+}
+.box .one{
+	background: white;
+	padding:20px;
+	box-sizing:border-box;
+	margin-bottom:20px;
+	font:12px microsoft yahei;
+}
+.box .one .txt{
+	text-indent: 20px;
+}
+.box .one h4,p{
+	color:#ccc;
+}
+.box .one ul li{
+	list-style: none;
+}
+.box .last{
+	background: white;
+	padding:20px;
+	box-sizing:border-box;
+	font:12px microsoft yahei;
+}
+.box .last h4,p{
+	color:#ccc;
+}
+.box .last ol li{
+	font:700 14px microsoft yahei;
+}
+.box .last table {
+	border:#ccc;
+	width: 600px;
+	height: 10px;
+}
+.box .last table th{
+	color:#fff;
+	text-align: left;
+}
+.box .sidebar{
+	background: white;
+	padding:20px;
+	margin-top:20px;
+	box-sizing:border-box;
+}
+.sidebar .top{
+	width: 500px;
+	height: 40px;
+	line-height: 40px;
+	text-indent: 10px;
+	border-left:2px solid #ccc;
+}
+.sidebar .foot{
+	width: 300px;
+	margin:0 auto;
+	text-align:right;
+	font:700 12px microsoft yahei;
+}
+.sidebar .foot p{
+	color:#ccc;
+	margin-right: 30px;
+}
+.sidebar .foot input{
+	margin-left:10px;
+	margin-top:10px;
+}
+.sidebar .feet {
+	font:700 12px microsoft yahei;
+	width:130px;
+	text-align:left;
+	margin:0 auto;
+
+}
+.sidebar .feet input,select{
+	margin-left:10px;
+	margin-top:10px;
+}
+.sidebar .faat input{
+	margin-left:10px;
+	margin-top:10px;
+}
+.sidebar .faat {
+	font:700 12px microsoft yahei;
+	width:700px;
+	text-align:left;
+	box-sizing:border-box;
+	margin:0 auto;
+	padding-left:280px;
+}
+.sidebar .faat textarea{
+	margin-left:50px;
+}
+.box button{
+	list-style:none;
+	border-radius: 10px;
+	width: 960px;
+	height: 40px;
+	font:400 14px microsoft yahei;
+	color:#fff;
+	background: #3355D0;
+	margin-bottom: 40px;
+}
